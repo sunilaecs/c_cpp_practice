@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-int main()
+int main_1()
 {
     //int x;
     //int y;
